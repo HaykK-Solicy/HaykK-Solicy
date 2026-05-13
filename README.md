@@ -1,7 +1,7 @@
 # Hi, I'm Hayk Karyan 👋
 
 **Senior Full-Stack & Web3 Engineer** based in Yerevan, Armenia.
-Currently leading development at [Solicy](https://solicy.com) — building crypto wallets, NFT platforms, DeFi dashboards, and React Native apps.
+Currently leading development at [Solicy](https://solicy.net) — building crypto wallets, NFT platforms, DeFi dashboards, and React Native apps.
 
 5+ years shipping production software across web, mobile, and Web3.
 
