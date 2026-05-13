@@ -64,5 +64,3 @@ Currently leading development at [Solicy](https://solicy.com) — building crypt
 - 🌐 Based in Yerevan, Armenia (GMT+4)
 
 ---
-
-<sub>Most of my work lives in private organization repositories. Public projects coming soon.</sub>
